@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Chatterduo">
+  <rect width="64" height="64" rx="14" fill="#1e3a36"/>
+  <path fill="#e8d5b5" d="M14 18h22a8 8 0 0 1 8 8v8a8 8 0 0 1-8 8H26l-7 7v-7h-5a8 8 0 0 1-8-8v-8a8 8 0 0 1 8-8z"/>
+  <path fill="#7eb8a8" d="M28 30h22a8 8 0 0 1 8 8v8a8 8 0 0 1-8 8h-5v7l-7-7h-10a8 8 0 0 1-8-8v-8a8 8 0 0 1 8-8z"/>
+</svg>
